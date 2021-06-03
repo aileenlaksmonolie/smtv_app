@@ -1,0 +1,6 @@
+{
+  "name": "tictactoe2",
+  "identifier": "com.smtv.tictactoe",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
